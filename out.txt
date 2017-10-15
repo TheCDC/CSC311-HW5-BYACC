@@ -1,0 +1,12 @@
+ARTICLE	An
+ADJECTIVE	clever
+NOUN	box
+VERB	write
+ADVERB	abruptly
+PREPOSITION	before
+NOUN	candy
+PUNCT	.
+END	
+
+END	
+
